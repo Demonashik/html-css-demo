@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    gap: 20px;
+    padding: 0 0 20px 0;
+}
+ul li {
+    list-style: none;
+
+}
+
+.us {
+    height: 700px;
+}
+img {
+    height: 200px;
+    ;
+}
+body {
+    background-image: -webkit-body(red,blue )
+}
