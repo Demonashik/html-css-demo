@@ -1,0 +1,16 @@
+.main{
+    margin: 90px;
+    padding: 40px;
+    background-color: red;
+    border: 10px solid black;
+    width:150px ;
+    height: 100px;
+}
+.in {
+    margin: 90px;
+    padding: 20px;
+    background-color: red;
+    border: 10px solid black;
+    width:150px ;
+    height: 150px;
+}
